@@ -1,0 +1,100 @@
+  body {
+      margin: auto;
+      font-family: 'Roboto', sans-serif;
+  }
+  
+  h1 {
+      font-size: 50px;
+  }
+  
+  .name-highlight {
+      color: orange;
+  }
+  
+  .half-width {
+      width: 40%;
+      float: left;
+      margin-left: 5%;
+      padding-left: 2%;
+  }
+  
+  .half-width img {
+      width: 100%;
+  }
+  
+  .main-2 img {
+      width: 100%;
+  }
+  
+  #headline-2 {
+      text-align: center;
+      margin: 20px;
+      padding: 10px;
+  }
+  
+  .top-banner {
+      background-image: url("images/header-bg.png");
+      background-repeat: no-repeat;
+  }
+  
+  .main-1 {
+      background-image: url("images/biography-bg.png");
+      background-repeat: no-repeat;
+  }
+  
+  .main-2 {
+      background-image: url("images/latest-work-bg.png");
+      background-repeat: no-repeat;
+  }
+  
+  .footer {
+      background-image: url("images/footer-bg.png");
+      background-repeat: no-repeat;
+  }
+  
+  #client {
+      text-align: center;
+  }
+  
+  section {
+      height: 500px;
+  }
+  
+  p {
+      text-align: justify;
+  }
+  
+  #dark {
+      margin-top: 50px;
+      margin-bottom: 5px;
+      text-align: center;
+      text-decoration: underline;
+  }
+  
+  #small {
+      font-size: smaller;
+      margin-top: 0px;
+      text-align: center;
+      text-decoration: none;
+  }
+  
+  #middle {
+      font-size: small;
+      text-align: center;
+      margin-left: 50%;
+      margin-top: 50px;
+  }
+  
+  .middle {
+      font-size: small;
+      margin-left: 15%;
+      margin-top: 50px;
+      padding: 5px;
+  }
+  
+  #extra-small {
+      text-align: center;
+      font-size: xx-small;
+      color: black;
+      margin-top: 80px;
+  }
