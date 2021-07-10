@@ -35,16 +35,19 @@
   .top-banner {
       background-image: url("images/header-bg.png");
       background-repeat: no-repeat;
+      overflow: scroll;
   }
   
   .main-1 {
       background-image: url("images/biography-bg.png");
       background-repeat: no-repeat;
+      overflow: scroll;
   }
   
   .main-2 {
       background-image: url("images/latest-work-bg.png");
       background-repeat: no-repeat;
+      overflow: scroll;
   }
   
   .footer {
