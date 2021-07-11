@@ -26,6 +26,10 @@
       width: 100%;
   }
   
+  .main-1 img {
+      width: 100%;
+  }
+  
   #headline-2 {
       text-align: center;
       margin: 20px;
@@ -48,6 +52,8 @@
       background-image: url("images/latest-work-bg.png");
       background-repeat: no-repeat;
       overflow: scroll;
+      margin: auto;
+      width: 100%;
   }
   
   .footer {
@@ -84,6 +90,7 @@
   #middle {
       font-size: small;
       text-align: center;
+      text-align: justify;
       margin-left: 45%;
       margin-top: 50px;
   }
